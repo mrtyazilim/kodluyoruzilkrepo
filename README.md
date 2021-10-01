@@ -8,6 +8,10 @@ Bu repo, [Kodluyoruz](http://kodluyoruz.org) Front-End Eğitiminde Oluşturduğu
 Öncelikle projeji klonlayın
 git clone https://github.com/mrtyazilim/kodluyoruzilkrepo.git
 
+.
+.
+.
+
 
 
 
